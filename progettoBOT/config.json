@@ -1,0 +1,68 @@
+{
+  "region": [
+    528,
+    252,
+    211,
+    157
+  ],
+  "rows": 3,
+  "cols": 4,
+  "slot_margin": 3,
+  "cell_trim_bottom": 6,
+  "fill_threshold": 25.0,
+  "click_delay": [
+    18,
+    45
+  ],
+  "cycle_delay": [
+    120,
+    260
+  ],
+  "settle_after_click": [
+    8,
+    20
+  ],
+  "pre_click": [
+    60,
+    120
+  ],
+  "click_hold": [
+    40,
+    80
+  ],
+  "scroll_enabled": true,
+  "scroll_clicks": -3,
+  "max_scrolls": 12,
+  "scroll_settle": [
+    80,
+    160
+  ],
+  "mouse_jitter": 2,
+  "modifier": "shift",
+  "toggle_key": "f8",
+  "panic_key": "f9",
+  "debug": false,
+  "auto_detect": false,
+  "search_region": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "template_path": "templates/loot_frame.png",
+  "template_threshold": 0.72,
+  "auto_region": [
+    0,
+    0,
+    320,
+    260
+  ],
+  "enable_logging": true,
+  "save_crops": false,
+  "log_dir": "logs",
+  "overlay": false,
+  "item_filter": false,
+  "items_dir": "templates/items",
+  "item_match_threshold": 0.7,
+  "loot_all_if_no_match": true
+}

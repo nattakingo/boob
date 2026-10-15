@@ -1,0 +1,6 @@
+# Dipendenze del progetto
+mss>=10.0.0            # cattura schermo veloce
+numpy>=2.0.0           # matematica sugli array immagine
+opencv-python>=4.9.0   # computer vision (matching, debug overlay)
+pynput>=1.7.6          # emulazione mouse/tastiera
+keyboard>=0.13.5       # hotkey globali (potrebbe richiedere privilegi admin su Windows)
